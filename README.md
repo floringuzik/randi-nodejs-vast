@@ -13,10 +13,10 @@ A small Node.js library providing methods to request ads from AdsWizz and report
 `var AdsWizzAd = require("adswizzad");`  
 `var vast = new AdsWizzAd("demo", 12288);`  
 `var vastCallback = function() {`  
-`&nbsp;&nbsp;&nbsp;&nbsp;console.log("here it is" );`  
-`&nbsp;&nbsp;&nbsp;&nbsp;console.log(vast.getMediaFile());`  
-`&nbsp;&nbsp;&nbsp;&nbsp;console.log(vast.getMediaFileDurationInSeconds());`  
-`&nbsp;&nbsp;&nbsp;&nbsp;vast.reportImpressions();`  
+`	+ console.log("here it is" );`  
+`	+ console.log(vast.getMediaFile());`  
+`	+ console.log(vast.getMediaFileDurationInSeconds());`  
+`	+ vast.reportImpressions();`  
 `};`  
 `vast.vastRequest(vastCallback);`  
 
