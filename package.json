@@ -1,0 +1,27 @@
+{
+  "name": "adswizzad",
+  "version": "1.0.0",
+  "description": "A small library providing methods to request ads from AdsWizz and report the tracking URLs",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/floringuzik/randi-nodejs-vast.git"
+  },
+  "keywords": [
+    "adswizz",
+    "vast",
+    "alexasdk"
+  ],
+  "author": "AdsWizz Inc. <florin.guzik@adswizz.com> (http://www.adswizz.com)",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/floringuzik/randi-nodejs-vast/issues"
+  },
+  "homepage": "https://github.com/floringuzik/randi-nodejs-vast#readme"
+}
