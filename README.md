@@ -1,7 +1,7 @@
-AdsWizz AdsWizz
-===============
+AdsWizzAd
+=========
 
-A small library providing methods to request ads from AdsWizz and report the tracking URLs
+A small Node.js library providing methods to request ads from AdsWizz and report the tracking URLs
 
 
 ## Installation
